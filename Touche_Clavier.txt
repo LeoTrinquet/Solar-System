@@ -1,0 +1,36 @@
+FARES Elie
+AMINE Ryan
+MAHMOUD Ali
+TRINQUET Leo
+HOUSSEN Aunn
+
+s -> Haut 
+x -> Bas 
+flèche droite -> Rotation droite 
+flèche gauche -> Rotation gauche
+flèche haut + CTRL -> Zoom en avant
+flèche bas + CTRL -> Zoom en arrière
+
+x -> Déplacer vers le haut
+s -> Déplacer vers le bas
+
+m -> Vue haut (si rappui sur m, retour à la vue initiale)
+
+a + CTRL -> Mercure (si rappui CTRL + a, retour vue initiale)
+z + CTRL -> Venus
+e + CTRL -> Terre
+r + CTRL -> Mars
+t + CTRL -> Jupiter
+y + CTRL -> Saturne
+u + CTRL -> Uranus
+i + CTRL -> Neptune
+
+o + flèche haut -> Augmenter la masse su  soleil
+o + flèche bas -> Diminuer la masse du soleil
+
+b + flèche haut -> Augmenter la vitesse de la simulation
+b + flèche bas -> Diminuer la vitesse de la simulation
+ 
+v -> reset
+
+q -> Fermer la fenêtre
